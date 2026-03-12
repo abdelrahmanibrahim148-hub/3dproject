@@ -52,6 +52,7 @@ header ul li a{
 header ul li a:hover, .active{
   background: #fff;
   color: #200016;
+  transition: .5s;
 }
 
 /*main section*/
